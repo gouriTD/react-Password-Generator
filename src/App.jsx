@@ -70,7 +70,7 @@ function App() {
             ref={pwdRef}
             />
             <button 
-            className=' hover:bg-blue-800 hover:text-white active:outline-none'
+            className='hover:bg-blue-800 hover:text-white active:outline-none'
             onClick={copyPasswdToClipboard}
             >
               Copy
